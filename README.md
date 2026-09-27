@@ -117,9 +117,10 @@ ________________________________________<br>
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ca4bf3a0-3242-470d-995c-4a458346f320" />
 
 •	Successful pings PC ↔ PC<br>
-<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/a28187f7-f961-453a-b597-33925e3ecc36" />
+<img width="1600" height="860" alt="70cc13c0-bcd4-42b5-95b3-90c914575631" src="https://github.com/user-attachments/assets/16d08527-2f34-40cc-91f2-a1cf7053abce" />
 
-________________________________________<br>
+
+
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Routers, switches, and PCs were configured with correct addressing. Connectivity within LANs and across WAN was verified.
 
